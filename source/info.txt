@@ -1,0 +1,22 @@
+---
+layout: null
+---
+/* PROJECT */
+Project title: {{ site.title }}
+URI: {{ site.project_url }}
+Git repository: {{ site.project_repo }}
+README: {{ site.project_repo }}#readme
+Description: {{ site.description }}
+Version: {{ site.version }}
+
+/* TEAM */
+Author: {{ site.author }}
+Author's URL: http://lubomirgeorgiev.com/
+Author's Email: {{ site.email }}
+Location: Sofia, Bulgaria.
+
+
+/* SITE */
+Last update: {{ site.time | date_to_rfc822 }}
+Standards: HTML5, CSS3,..
+Components: Bootstrap, jQuery, etc.

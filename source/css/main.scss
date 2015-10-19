@@ -17,7 +17,6 @@
   URI: {{ site.project_url }}
   Description: {{ site.description }}
   Version: {{ site.version }}
-  Generated: {{ site.time | date: "%c" }}
   Author: {{ site.author }}
   Author's email: {{ site.email }}
   Author's URI: http://lubomirgeorgiev.com
