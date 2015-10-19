@@ -20,6 +20,7 @@ Project git Repository: https://github.com/LubomirGeorgiev/UNSS-S66-Semantic-Net
 6.  Commands:
  - For development `jekyll serve --watch`
  - For deployment and production `jekyll build`
+7. When updating 'gh_pages' you first have switch and then run `git reset --hard` and `git clean -f -d` to delete the conflicting files from the 'master' branch.
 
 
 ##Used Technologies
