@@ -5,7 +5,7 @@ This project is an assigment by [Chief Assist. Dr. Angel Angelov Marchev](http:/
 
 [For more info on the assignment click here](https://b2c6e50d0308dc8a1d10b4dece743cbdbfd6cb89.googledrive.com/host/0BxoY4fessSvLbGd1STZ1UFdiRFk/index.html)
 
-Project URL: http://lubomirgeorgiev.github.io/unss-s66-semantic-networks
+Project URL: http://lubomirgeorgiev.github.io/UNSS-S66-Semantic-Networks
 
 Project git Repository: https://github.com/LubomirGeorgiev/UNSS-S66-Semantic-Networks
 
@@ -32,4 +32,5 @@ Project git Repository: https://github.com/LubomirGeorgiev/UNSS-S66-Semantic-Net
 
 ---
 This project was developed by [Lubomir Georgiev](http://lubomirgeorgiev.com/)
+
 Copyright © 2015 Lubomir Georgiev, All rights reservd.
