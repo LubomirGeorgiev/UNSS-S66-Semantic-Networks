@@ -16,7 +16,7 @@
   Title: {{ site.title }}
   URI: {{ site.project_url }}
   Description: {{ site.description }}
-  Version: 1.0
+  Version: {{ site.version }}
   Generated: {{ site.time | date: "%c" }}
   Author: {{ site.author }}
   Author's email: {{ site.email }}
