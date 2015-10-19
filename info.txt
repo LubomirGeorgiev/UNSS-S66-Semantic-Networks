@@ -1,0 +1,19 @@
+/* PROJECT */
+Project title: Team S66 - Semantic Networks - UNWE.BG
+URI: http://lubomirgeorgiev.github.io/UNSS-S66-Semantic-Networks
+Git repository: https://github.com/LubomirGeorgiev/UNSS-S66-Semantic-Networks
+README: https://github.com/LubomirGeorgiev/UNSS-S66-Semantic-Networks#readme
+Description: Semantic Networks Assignment at UNWE.BG - Team S66
+Version: v1.0.1
+
+/* TEAM */
+Author: Lubomir Georgiev
+Author's URL: http://lubomirgeorgiev.com/
+Author's Email: lubomirgeorgievgeorgiev@gmail.com
+Location: Sofia, Bulgaria.
+
+
+/* SITE */
+Last update: Tue, 20 Oct 2015 00:20:14 +0300
+Standards: HTML5, CSS3,..
+Components: Bootstrap, jQuery, etc.
