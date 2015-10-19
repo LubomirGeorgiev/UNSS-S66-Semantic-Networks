@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   // Add class .dragon to body in order to load the drag scrolling
   if ($(window).width() >= 800){
-    $('body.homepage').addClass('dragon');
+    $('.semantic-map').addClass('dragon');
   }
 
 });
@@ -392,10 +392,21 @@ $(function () {
 });
 
 $(document).ready(function() {
+
     $('map').imageMapResize();
 
     $('img').dragscrollable({
         dragSelector: 'img',
         acceptPropagatedEvent: false
     });
+
+    // Remove the starting slashes on /list.html
+    $('body.list a[href^="/"]').attr('href', function (i, oldHref) {
+    return oldHref.substr(1);
+  });
+
 });
+
+function showGeneratedTime() {
+  $('footer .copyright .left').removeClass('hidden');
+}

@@ -1,0 +1,18 @@
+---
+layout: default
+body_class: list
+permalink: /list.html
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-7 col-md-7 col-md-offset-3">
+      <div class="list-group">
+        {% assign tutorials = (site.pages | where: "layout" , "words") %}
+        {% for page in tutorials %}
+             <a href="{{ page.url }}" class="list-group-item">{{ page.title }}</a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
