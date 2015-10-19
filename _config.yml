@@ -3,7 +3,7 @@ title: Team S66 - Semantic Networks - UNWE.BG
 author: Lubomir Georgiev
 email: lubomirgeorgievgeorgiev@gmail.com
 description: Semantic Networks Assignment at UNWE.BG - Team S66
-version: v1.0.1
+version: v1.0.2
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username:

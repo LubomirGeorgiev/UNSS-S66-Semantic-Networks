@@ -1,6 +1,7 @@
 #[Team S66 - Semantic Networks - UNWE.BG](http://lubomirgeorgiev.github.io/UNSS-S66-Semantic-Networks)
 
-Semantic Networks Assignment at UNWE.BG - Team S66 v1.0.1
+Semantic Networks Assignment at UNWE.BG - Team S66 v1.0.2
+
 This project is an assigment by [Chief Assist. Dr. Angel Angelov Marchev](http://blogs.unwe.bg/angelmarchev/en/) in Basics of Management
 
 [For more info on the assignment click here](https://b2c6e50d0308dc8a1d10b4dece743cbdbfd6cb89.googledrive.com/host/0BxoY4fessSvLbGd1STZ1UFdiRFk/index.html)
