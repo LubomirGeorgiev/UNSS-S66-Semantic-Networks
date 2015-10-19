@@ -1,0 +1,23 @@
+{
+  "name": "UNSS-S66-Semantic-Networks",
+  "version": "0.0.0",
+  "homepage": "https://github.com/LubomirGeorgiev/UNSS-S66-Semantic-Networks",
+  "authors": [
+    "Lubomir Georgiev (Любомир Георгиев) <lubomirgeorgievgeorgiev@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
