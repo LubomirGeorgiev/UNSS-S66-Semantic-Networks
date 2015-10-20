@@ -2,4 +2,4 @@ $imp: !important;
 
 // Backgrounds and Gradients
 $page_bg: url(../images/rounded-shadow.png) center 0 no-repeat, url(../images/rounded-shadow-reversed.png) center bottom no-repeat, radial-gradient(ellipse at center, #ffffff 0%,#dcdcdc 100%);
-$bright_red_gradient: url(../images/rounded-shadow.png) center 0 no-repeat,url(../images/rounded-shadow-reversed.png) center bottom no-repeat, radial-gradient(circle farthest-corner at right bottom,#ffd08a 0,#ffa376 35%,#F14545 65%);
+$bright_red_gradient: url(../images/rounded-shadow.png) center 0 no-repeat,url(../images/rounded-shadow-reversed.png) center bottom no-repeat,radial-gradient(circle farthest-corner at right bottom, rgba(255,208,138,0.7) 0, rgba(255,163,118,0.7) 35%, rgba(241,69,69,0.7) 65%),url(../images/diagonal-noise.png);
