@@ -17,6 +17,6 @@ Location: Sofia, Bulgaria.
 
 
 /* SITE */
-Last update: {{ site.time | date_to_rfc822 }}
+Dynamically generated: {{ site.time | date_to_rfc822 }}
 Standards: HTML5, CSS3,..
 Components: Jekyll, Bootstrap, jQuery, etc.

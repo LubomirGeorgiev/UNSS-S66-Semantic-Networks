@@ -1,2 +1,5 @@
 $imp: !important;
+
+// Backgrounds and Gradients
 $page_bg: url(../images/rounded-shadow.png) center 0 no-repeat, url(../images/rounded-shadow-reversed.png) center bottom no-repeat, radial-gradient(ellipse at center, #ffffff 0%,#dcdcdc 100%);
+$bright_red_gradient: url(../images/rounded-shadow.png) center 0 no-repeat,url(../images/rounded-shadow-reversed.png) center bottom no-repeat, radial-gradient(circle farthest-corner at right bottom,#ffd08a 0,#ffa376 35%,#F14545 65%);

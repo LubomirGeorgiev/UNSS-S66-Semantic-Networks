@@ -17,5 +17,6 @@ destination: _dist
 source: source
 markdown: kramdown
 highlighter: rouge
+host: 0.0.0.0
 sass:
     style: compressed

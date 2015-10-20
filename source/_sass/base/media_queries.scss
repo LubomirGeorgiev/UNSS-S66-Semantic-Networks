@@ -1,0 +1,40 @@
+@media (max-width: 1000px) {
+
+  footer.site-footer {
+
+    .copyright {
+      flex-direction: column;
+      padding: 15px 20px;
+
+      .left, .right {
+        text-align: center;
+      }
+
+      .right {
+        margin-top: 25px;
+      }
+    }
+  }
+
+}
+
+@media (max-width: 400px) {
+
+  footer.site-footer {
+
+    .btn {
+      white-space: normal;
+    }
+  }
+
+}
+
+@media (max-width: 500px) {
+
+  .navbar {
+
+    .navbar-brand {
+      font-size: 12px;
+    }
+  }
+}
