@@ -1,7 +1,8 @@
 $(document).ready(function() {
 
   // Add class .dragon to body in order to load the drag scrolling
-  if ($(window).width() >= 800){
+  var viewport = $(window).width();
+  if (viewport >= 800 && viewport <= 1800){
     $('.semantic-map').addClass('dragon');
   }
 
